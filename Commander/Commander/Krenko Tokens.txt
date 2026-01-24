@@ -1,0 +1,88 @@
+// COMMANDER
+1 Krenko, Mob Boss (FDN) 204
+
+1 Abrade (VOW) 139
+1 Ashnod's Altar (CMM) 368
+1 Battle Hymn (AVR) 128
+1 Beetleback Chief (TDC) 205
+1 Blood Moon (2XM) 118
+1 Boneclub Berserker (ECL) 126
+1 Brightstone Ritual (ONS) 191
+1 Caged Sun (CM2) 178
+1 Castle Embereth (TDC) 347
+1 Cavern of Souls (LCI) 269
+1 Chain Reaction (EOC) 87
+1 Chaos Warp (EOC) 49
+1 Chronicle of Victory (ECL) 253
+1 Coat of Arms (DDS) 58
+1 Collective Inferno (ECL) 132
+1 Command Beacon (TDC) 352
+1 Conspicuous Snoop (M21) 139
+1 Door of Destinies (C17) 208
+1 Dragon Fodder (FDN) 535
+1 Empty the Warrens (DDS) 15
+1 Faithless Looting (TDC) 213
+1 Flare of Duplication (MH3) 119
+1 Gamble (DMR) 121
+1 Goblin Bombardment (MH2) 279
+1 Goblin Chieftain (DDT) 41
+1 Goblin Chirurgeon (FEM) 54c
+1 Goblin Grenade (DDT) 45
+1 Goblin King (10E) 207
+1 Goblin Matron (DMR) 123
+1 Goblin Negotiation (FDN) 88
+1 Goblin Piledriver (ORI) 151
+1 Goblin Sharpshooter (C13) 111
+1 Goblin Surprise (FDN) 200
+1 Goblin War Strike (SCG) 96
+1 Goblin Warchief (DOM) 130
+1 Hammer of Purphoros (EOC) 88
+1 Hazoret's Monument (DMC) 183
+1 Hobgoblin Bandit Lord (AFR) 147
+1 Hordeling Outburst (ONC) 100
+1 Impact Tremors (MOC) 285
+1 Kiki-Jiki, Mirror Breaker (IMA) 136
+1 Kindred Charge (C17) 27
+1 Krenko's Command (M13) 139
+1 Krenko, Tin Street Kingpin (MOC) 287
+1 Last-Ditch Effort (ULG) 83
+1 Legion Loyalist (GK1) 82
+1 Lightning Bolt (CLB) 401
+1 Lightning Greaves (TDC) 102
+1 Mana Geyser (TDC) 223
+1 Marvin, Murderous Mimic (DSK) 253
+1 Massive Raid (GTC) 100
+1 Mizzium Mortars (RTR) 101
+1 Mob Justice (STH) 90
+15 Mountain (EOE) 273
+1 Mutavault (CLB) 903
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Outnumber (BFZ) 150
+1 Pashalik Mons (DMR) 133
+1 Phyrexian Altar (2X2) 311
+1 Purphoros, God of the Forge (CMM) 246
+1 Pyroblast (SS3) 5
+1 Reckless One (EVG) 48
+1 Red Elemental Blast (A25) 147
+1 Reforge the Soul (INR) 167
+1 Relentless Assault (CMR) 416
+1 Ruby Medallion (MH3) 295
+1 Rummaging Goblin (CMR) 198
+1 Rundvelt Hordemaster (DMU) 142
+1 Seething Song (C21) 179
+1 Skirk Prospector (DMR) 137
+1 Skullclamp (TDC) 103
+1 Sol Ring (EOC) 57
+1 Springleaf Drum (2XM) 291
+1 Squee, the Immortal (NCC) 275
+1 Swiftfoot Boots (TDC) 328
+1 Three Tree City (BLB) 260
+1 Thrill of Possibility (FDN) 210
+1 Throne of the God-Pharaoh (AKH) 237
+1 Tibalt's Trickery (KHM) 153
+1 Torch Courier (GRN) 119
+1 Untimely Malfunction (DSK) 161
+1 Valakut, the Molten Pinnacle (ZEN) 228
+1 Vandalblast (OTC) 183
+1 Warren Instigator (ZEN) 154
+1 Witty Roastmaster (SNC) 131
