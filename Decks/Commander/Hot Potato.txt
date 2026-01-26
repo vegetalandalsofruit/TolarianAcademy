@@ -4,7 +4,6 @@
 1 Anje Falkenrath (C19) 37 *F*
 1 Arcane Denial (DRC) 70
 1 Archfiend of Ifnir (DRC) 86
-1 Argentum Masticore (ONE) 222
 1 Azula, Cunning Usurper (TLA) 303
 1 Baleful Mastery (STX) 301
 1 Baleful Strix (OTC) 215
@@ -15,11 +14,10 @@
 1 Bone Miser (SPG) 87
 1 Bone Shards (MH2) 395
 1 Bontu's Monument (DMC) 179
-1 Boomerang Basics (TLA) 46
 1 Brainstorm (40K) 192
-1 Burning Inquiry (M10) 128
 1 Burnout (ALL) 68
 1 Cabal Coffers (MH2) 301
+1 Champion's Helm (CMM) 375
 1 Chromatic Lantern (SLD) 2314
 1 Circular Logic (SLD) 1519
 1 Collective Brutality (INR) 308
@@ -27,7 +25,7 @@
 1 Condescend (J22) 282
 1 Counterspell (STA) 15
 1 Cryptic Command (SLD) 905 *F*
-1 Cutthroat Negotiator (MOC) 40
+1 Curator's Ward (DOM) 49
 1 Cyclonic Rift (2XM) 339
 1 Dakra Mystic (PLST) JOU-35
 1 Damnation (2X2) 73
@@ -43,6 +41,7 @@
 1 Dread Return (C14) 142
 1 Drowned Catacomb (SLD) 457
 1 Exquisite Blood (SLD) 206
+1 Faithless Looting (TDC) 213
 1 Fascination (FRF) 34
 1 Fate Unraveler (C15) 126
 1 Feast of Sanity (MH2) 84
@@ -52,10 +51,10 @@
 1 Hero's Demise (BOK) 68
 1 Hero's Downfall (FDN) 175
 1 Hollowhead Sliver (CMM) 878
-1 Howling Golem (GN3) 117
 1 Ice Tunnel (KHM) 262
 1 Island (DSK) 273
 1 Jace Beleren (PMEI) 2009-1
+1 Jet Medallion (MH3) 292
 1 Kederekt Parasite (DSC) 144
 1 Lazotep Chancellor (MH2) 369
 1 Lightning Bolt (SLD) 86 *F*
@@ -90,6 +89,7 @@
 1 Steam Vents (UNF) 283
 1 Sunken Ruins (FIC) 430
 3 Swamp (DSK) 274
+1 Swiftfoot Boots (TDC) 328
 1 Temple of Deceit (FDN) 697
 1 Temple of Epiphany (WHO) 316
 1 Terminate (SLD) 1427
