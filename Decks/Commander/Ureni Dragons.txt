@@ -1,0 +1,102 @@
+// COMMANDER
+1 Ureni of the Unwritten (TDC) 9
+
+1 An Offer You Can't Refuse (FDN) 311
+1 Ancient Copper Dragon (CLB) 368
+1 Arcane Signet (PF25) 10
+1 Asceticism (SOM) 110
+1 Atarka's Command (2X2) 176
+1 Atarka, World Render (TDC) 281
+1 Breeding Pool (EOE) 278
+1 Broodcaller Scourge (TDC) 84
+1 Carnelian Orb of Dragonkind (CLB) 166
+1 Cascade Bluffs (EXP) 32 *F*
+1 Cavern of Souls (PUMA) U32 *F*
+1 Chaos Warp (EOC) 49
+1 Chromatic Lantern (DRC) 53
+1 Chronicle of Victory (ECL) 253
+1 Cinder Glade (EXP) 4 *F*
+1 Collective Inferno (ECL) 363
+1 Command Beacon (TDC) 352
+1 Command Tower (EOC) 59
+1 Copperline Gorge (ONE) 371
+1 Counterspell (STA) 15
+1 Crucible of the Spirit Dragon (AFC) 231
+1 Cryptic Command (PLST) IMA-48
+1 Cyclonic Rift (CMM) 84
+1 Deceptive Frostkite (TDC) 59
+1 Dispelling Exhale (TDM) 41
+1 Dracogenesis (TDM) 300
+1 Dragon Tempest (TDC) 94
+1 Dragon's Hoard (TDC) 317
+1 Dragonmaster Outcast (TDC) 211
+1 Dragonspeaker Shaman (AFC) 330
+1 Dragonstorm Globe (TDM) 241
+1 Elvish Piper (LTC) 239
+1 Eshki, Temur's Roar (TDC) 3
+1 Fanatic of Rhonas (MH3) 152
+1 Farseek (BLC) 119
+1 Fire-Lit Thicket (EXP) 29 *F*
+1 Forest (ONE) 271
+1 Frontier Siege (TDC) 256
+1 Glorybringer (TDC) 215
+1 Growth Spiral (LCC) 270
+1 Gruul Turf (BLC) 310
+1 Haven of the Spirit Dragon (TDC) 370
+1 Hellkite Courser (CMR) 666
+1 Herald's Horn (40K) 241
+1 Herd Heirloom (TDM) 347
+1 Heroic Intervention (AFC) 161
+1 Hexing Squelcher (ECL) 317
+1 Hinterland Harbor (ISD) 241
+1 Izzet Boilerworks (2X2) 408
+1 Klauth, Unrivaled Ancient (AFC) 320
+1 Korlessa, Scale Singer (CLB) 280
+1 Lathliss, Dragon Queen (TDC) 219
+1 Lightning Greaves (DSC) 93
+1 Mana Confluence (EOS) 25
+1 Mana Drain (OTP) 11
+1 Miirym, Sentinel Wyrm (CLB) 284
+1 Mistrise Village (TDM) 397
+1 Mizzium Mortars (SLD) 2249
+1 Mosswort Bridge (TDC) 379
+1 Mountain (EOE) 265
+1 Mox Jasper (TDM) 325
+1 Nogi, Draco-Zealot (TDC) 226
+1 Orb of Dragonkind (AFR) 381
+1 Parapet Thrasher (TDC) 76
+1 Pongify (TDC) 160
+1 Prismari Command (STX) 348
+1 Radha, Heir to Keld (TSR) 259
+1 Rampant Growth (40K) 220
+1 Rapid Hybridization (GK2) 109
+1 Reflections of Littjara (TDC) 164
+1 Roaming Throne (LCI) 258
+1 Sarkhan Unbroken (MED) WS8 *F*
+1 Sarkhan, Soul Aflame (MAT) 181
+1 Savage Ventmaw (FDN) 665
+1 Scalding Tarn (SPG) 117 *F*
+1 Scourge of Valkas (SLD) 1490
+1 Sensei's Divining Top (2X2) 398
+1 Sheltered Thicket (EOC) 178
+1 Smuggler's Surprise (OTJ) 180
+1 Sol Ring (SLD) 913 *F*
+1 Spit Flame (TDC) 234
+1 Steam Vents (ECL) 348
+1 Stomping Ground (EOE) 283
+1 Stormbreath Dragon (TDC) 237
+1 Stubborn Denial (KTK) 56
+1 Sulfur Falls (EOC) 184
+1 Taurean Mauler (TDC) 238
+1 Temple of Abandon (THS) 224
+1 Temple of Epiphany (JOU) 164
+1 Temur Ascendancy (TDC) 305
+1 Temur Battlecrier (TDM) 228
+1 Terror of the Peaks (OTJ) 149
+1 The Fire Crystal (FIN) 337
+1 The Great Henge (CMM) 562 *E*
+1 Three Tree City (BLB) 338
+1 Urza's Incubator (DMR) 453
+1 Vandalblast (CMM) 646
+1 Vengeful Ancestor (TDC) 242
+1 Yavimaya, Cradle of Growth (LTC) 377
