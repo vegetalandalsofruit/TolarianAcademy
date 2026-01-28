@@ -42,12 +42,7 @@
 1 Forest (ONE) 369 *F*
 1 Forest (WOE) 266
 1 Forest (LCI) 291
-1 Forest (MKM) 276
 1 Forest (BLB) 280
-1 Forest (BLB) 281
-1 Forest (BLB) 279
-1 Forest (BLB) 278
-1 Forest (FDN) 290
 1 Forest (ECL) 278
 1 Glacierwood Siege (TDM) 386
 1 Greensleeves, Maro-Sorcerer (DMC) 27
@@ -55,6 +50,7 @@
 1 Hedron Crab (SLD) 1430
 1 Icetill Explorer (EOE) 362 *F*
 1 Iridescent Vinelasher (BLB) 99
+1 Island (ECL) 275
 1 Jetmir's Garden (SNC) 351
 1 Ketria Triome (IKO) 310
 1 Khalni Heart Expedition (CMM) 899
@@ -65,12 +61,15 @@
 1 Mizzium Mortars (SLD) 2249
 1 Mortify (RNA) 192
 1 Mossborn Hydra (FDN) 337
+1 Mountain (ECL) 277
 1 Naturalize (M19) 190
 1 Omnath, Locus of Creation (ZNR) 312
 1 Omnath, Locus of Rage (BFZ) 217
 1 Oracle of Mul Daya (2X2) 370
 1 Overgrown Tomb (ECL) 350
 1 Path to Exile (PF20) 1
+1 Plains (TDM) 272
+1 Plains (TLA) 287
 1 Rampant Growth (2X2) 371
 1 Relic of Legends (DMU) 236
 1 Rites of Flourishing (BLC) 122
@@ -83,6 +82,7 @@
 1 Sol Ring (SLD) 1905 *F*
 1 Soul Stair Expedition (ZEN) 112
 1 Stomping Ground (EOE) 283
+1 Swamp (ECL) 281
 1 Swords to Plowshares (MB2) 153
 1 Sylvan Safekeeper (SLD) 2109
 1 Tatyova, Benthic Druid (FDN) 247
