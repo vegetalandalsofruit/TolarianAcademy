@@ -1,0 +1,96 @@
+// COMMANDER
+1 Zaxara, the Exemplary (DMC) 176
+
+1 An Offer You Can't Refuse (SLP) 7
+1 Aqueous Form (CMR) 56
+1 Arcane Signet (LCC) 104
+1 Asceticism (LTC) 233
+1 Baleful Mastery (OTC) 126
+1 Baleful Strix (OTC) 215
+1 Bear Umbra (SLD) 1723
+1 Benevolent Hydra (SLD) 1889 *F*
+1 Branching Evolution (MH3) 285
+1 Breeding Pool (UNF) 286
+1 Burgeoning (SLD) 408
+1 Capricopian (C20) 58
+1 Cavern of Souls (LCI) 345
+1 Chalice of the Void (J19) 7 *F*
+1 Command Tower (ECC) 60
+1 Corpsejack Menace (CM2) 152
+1 Counterspell (STA) 15
+1 Court of Garenbrig (WOC) 33
+1 Curse of the Swine (TDC) 149
+1 Deadly Rollick (CMM) 147
+1 Deepglow Skate (EOC) 70
+1 Destiny Spinner (WOC) 123
+1 Dismember (MM2) 79
+1 Doubling Season (WOT) 52
+1 Dreamroot Cascade (VOW) 282
+1 Erebos's Intervention (THB) 313
+1 Exsanguinate (CMM) 638
+1 Fanatic of Rhonas (MH3) 458
+1 Farseek (EOC) 50
+1 Feral Hydra (BBD) 197
+1 Forced Adaptation (GTC) 120
+5 Forest (DSK) 276
+1 Gargos, Vicious Watcher (M20) 172
+1 Garruk's Uprising (WOT) 53
+1 Goldvein Hydra (OTJ) 341
+1 Golgari Rot Farm (2X2) 406
+1 Grim Tutor (M21) 315
+1 Hardened Scales (WOT) 55
+1 Herald of Secret Streams (LCC) 158
+1 Hinterland Harbor (LTC) 317
+1 Hungering Hydra (C20) 177
+1 Hydra Broodmaster (M3C) 233
+1 Hydroid Krasis (M3C) 266
+1 Icy Blast (KTK) 42
+1 Incubation Druid (MOC) 302
+1 Inspiring Call (PIP) 203
+1 Invigorating Surge (M21) 190
+3 Island (DSK) 273
+1 Kalonian Hydra (BLC) 226
+1 Karametra's Acolyte (PTHS) 160 *F*
+1 Kodama of the West Tree (NEO) 392
+1 Mana Drain (CMR) 637
+1 Managorger Hydra (SLD) 306
+1 Mirrormade (ELD) 347
+1 Mistcutter Hydra (THS) 162
+1 Misty Rainforest (MH2) 477
+1 Naturalize (M19) 190
+1 Neverwinter Hydra (AFC) 310
+1 Nylea, God of the Hunt (PLST) THS-166
+1 Overgrown Tomb (RVR) 296
+1 Pongify (TDC) 160
+1 Primal Rage (10E) 286
+1 Primordial Hydra (M13) 183
+1 Profane Tutor (MH2) 452
+1 Protean Hydra (M11) 194
+1 Pull from Tomorrow (EOC) 76
+1 Pull from the Deep (JOU) 47
+1 Rampaging Yao Guai (PIP) 401
+1 Rancor (AFC) 167
+1 Reliquary Tower (CMM) 663
+1 Savage Summoning (M14) 194
+1 Simic Charm (CMR) 451
+1 Simic Growth Chamber (2X2) 412
+1 Sol Ring (ECC) 57
+1 Spectral Denial (TDM) 58
+1 Tangled Islet (DSC) 306
+1 Temple of Deceit (THB) 348
+1 Temple of Malady (M21) 388
+1 Temple of Mystery (M21) 389
+1 Terrasymbiosis (EOE) 312
+1 Thassa, God of the Sea (LCC) 176
+1 The Great Henge (ELD) 370
+1 Torment of Hailfire (HOU) 77
+1 Unbound Flourishing (MH1) 189
+1 Urza's Incubator (DMR) 453
+1 Vampiric Tutor (CMR) 656
+1 Villainous Wealth (OTC) 249
+1 Voracious Hydra (SLD) 1491
+1 Vorel of the Hull Clade (LCC) 294
+1 Vorinclex, Monstrous Raider (KHM) 406
+1 Vorinclex, Voice of Hunger (MUL) 29
+1 Worldly Tutor (DMR) 442
+1 Yavimaya, Cradle of Growth (LTC) 377

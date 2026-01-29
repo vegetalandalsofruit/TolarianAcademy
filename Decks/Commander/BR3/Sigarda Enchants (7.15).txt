@@ -1,0 +1,80 @@
+// COMMANDER
+1 Sigarda, Host of Herons (INR) 247
+
+1 All That Glitters (PIP) 155
+1 Ancestral Mask (WOC) 119
+1 Arcane Signet (ECC) 55
+1 Armadillo Cloak (EMA) 195
+1 Avacyn's Pilgrim (SCD) 171
+1 Battle Mastery (BBD) 89
+1 Beast Within (EOC) 93
+1 Brushland (FIC) 377
+1 Caduceus, Staff of Hermes (ACR) 2
+1 Canopy Vista (FIC) 378
+1 Command Tower (ECC) 59
+1 Condemn (SPG) 74
+1 Cultivate (ECC) 103
+1 Danitha Capashen, Paragon (J25) 59
+1 Darksteel Mutation (CMM) 21
+1 Daybreak Coronet (WOC) 65
+1 Destiny Spinner (WOC) 123
+1 Eidolon of Blossoms (PJOU) 122★ *F*
+1 Elvish Mystic (SLD) 805
+1 Enchantress's Presence (WOC) 125
+1 Ethereal Armor (DSK) 7
+1 Fertile Ground (ECC) 106
+11 Forest (TMT) 257
+1 Fortified Village (FIC) 396
+1 Generous Gift (LCC) 128
+1 Hall of Heliod's Generosity (DSC) 283
+1 Heliod's Pilgrim (THB) 20
+1 Hunter's Insight (CMM) 296
+1 Hyena Umbra (2X2) 13
+1 Jukai Naturalist (NEO) 510
+1 Kenrith's Transformation (WOC) 128
+1 Kodama's Reach (ECC) 113
+1 Kor Spiritdancer (PLST) ROE-31
+1 Kutzil, Malamet Exemplar (LCI) 232
+1 Llanowar Elves (SLC) 12
+1 Mantle of the Ancients (PIP) 165
+1 Mesa Enchantress (SLD) 282
+1 Nature's Claim (SLD) 2297
+1 Nature's Lore (EOC) 101
+1 Open the Armory (CMR) 34
+1 Path to Exile (ECC) 65
+13 Plains (TMT) 253
+1 Rampant Growth (TDC) 265
+1 Rancor (PIP) 205
+1 Retether (WOC) 72
+1 Rogue's Passage (FIC) 415
+1 Sage's Reverie (WOC) 73
+1 Sanctum Weaver (WOC) 131
+1 Satyr Enchanter (CMM) 936
+1 Season of Growth (WOT) 61
+1 Selesnya Sanctuary (CLU) 246
+1 Selesnya Signet (TDC) 324
+1 Setessan Champion (THB) 331
+1 Sheltered by Ghosts (DSK) 30
+1 Shield of the Oversoul (SHM) 242
+1 Single Combat (WAR) 30
+1 Snake Umbra (WOC) 133
+1 Sol Ring (DRC) 56
+1 Spirit Mantle (CMR) 385
+1 Sram, Senior Edificer (MUL) 6
+1 Strength of the Harvest (MH3) 258
+1 Strong Back (PIP) 83
+1 Sun Titan (TDC) 133
+1 Sungrass Prairie (FIC) 428
+1 Sunpetal Grove (FIC) 432
+1 Swords to Plowshares (EOC) 45
+1 Sythis, Harvest's Hand (CMM) 938
+1 Talisman of Unity (MKC) 244
+1 Temple of Plenty (FIC) 437
+1 Timely Ward (DSC) 107
+1 Twinblade Blessing (FDN) 26
+1 Unflinching Courage (FDN) 722 *F*
+1 Unquestioned Authority (J22) 260
+1 Utopia Sprawl (RVR) 159
+1 Verduran Enchantress (CMM) 915
+1 Wild Growth (PIP) 208
+1 Winds of Rath (MKC) 93

@@ -1,0 +1,30 @@
+3 Arid Mesa (MH2) 244
+2 Blackcleave Cliffs (DSC) 263
+1 Blood Crypt (ECL) 262
+4 Bloodghast (DFT) 77
+2 Bloodstained Mire (MH3) 216
+4 Cathartic Reunion (ECC) 91
+3 Conflagrate (TSR) 160
+3 Copperline Gorge (BLC) 301
+2 Dakmor Salvage (EOC) 156
+4 Faithless Looting (TDC) 213
+2 Gemstone Mine (DMR) 247
+3 Golgari Thug (RVR) 76
+1 Haunted Dead (INR) 116
+4 Insolent Neonate (SOI) 168
+4 Life from the Loam (TDC) 96
+2 Mountain (ECL) 272
+4 Narcomoeba (RVR) 451
+4 Prized Amalgam (2X2) 264
+4 Stinkweed Imp (GK1) 53
+2 Stomping Ground (EOE) 258
+2 Wooded Foothills (MH3) 236
+
+// SIDEBOARD
+2 Abrupt Decay (GK1) 57
+2 Ancient Grudge (TSR) 151
+3 Collective Brutality (INR) 101
+2 Darkblast (RVR) 454
+1 Gnaw to the Bone (ISD) 183
+2 Lightning Axe (INR) 162
+3 Thoughtseize (2XM) 109

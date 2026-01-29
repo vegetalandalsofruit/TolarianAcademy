@@ -1,0 +1,102 @@
+// COMMANDER
+1 Marneus Calgar (40K) 8 *F*
+
+1 Adeline, Resplendent Cathar (DBL) 1
+1 An Offer You Can't Refuse (FDN) 311
+1 And They Shall Know No Fear (40K) 9
+1 Angelic Chorus (BBD) 87
+1 Anguished Unmaking (TDC) 279
+1 Arcane Signet (40K) 229
+1 Archetype of Imagination (DSC) 111
+1 Ashnod's Altar (SLD) 1679
+1 Assault Intercessor (40K) 104
+1 Authority of the Consuls (KLD) 5
+1 Aven Mindcensor (PAKH) 5p
+1 Azorius Chancery (2X2) 400
+1 Baleful Mastery (OTC) 126
+1 Baneslayer Angel (M21) 340
+1 Bastion Protector (40K) 182
+1 Belisarius Cawl (40K) 106
+1 Blind Obedience (RVR) 9
+1 Blood Artist (C17) 99
+1 Cabal Coffers (MH2) 325
+1 Call the Coppercoats (ONC) 60
+1 Callidus Assassin (40K) 109
+1 Celestine, the Living Saint (40K) 10
+1 Chronicle of Victory (ECL) 253
+1 Collective Effort (40K) 183
+1 Command Tower (40K) 272
+1 Company Commander (40K) 113
+1 Corpse Knight (PM20) 206
+1 Counterspell (CMM) 630
+1 Darkwater Catacombs (40K) 274
+1 Deny the Witch (40K) 116
+1 Dismember (SLD) 1674
+1 Dovin's Veto (WAR) 193
+1 Elesh Norn, Grand Cenobite (IMA) 18
+1 Epistolary Librarian (40K) 118
+1 Esper Sentinel (MH2) 12
+1 Exalted Sunborn (EOE) 318
+1 Fiendslayer Paladin (M14) 18
+1 Flawless Maneuver (CMM) 24
+1 Flooded Strand (MH3) 353
+1 Generous Gift (LCC) 128
+1 Glacial Fortress (M12) 227
+1 Godless Shrine (UNF) 282
+1 Grand Abolisher (E01) 12
+1 Grand Crescendo (TDC) 118
+1 Hallowed Fountain (UNF) 277
+1 Inquisitor Eisenhorn (40K) 127
+1 Inquisitor Greyfax (40K) 3 *F*
+1 Island (40K) 309
+1 Isolated Chapel (TDC) 373
+1 Kambal, Profiteering Mayor (OTJ) 353
+1 Kinbinding (ECL) 20
+1 Levitation (M12) 61
+1 Mana Drain (2X2) 348
+1 Marsh Flats (SPG) 110
+1 Mondrak, Glory Dominus (ONE) 299
+1 Mortify (40K) 225
+1 Myrel, Shield of Argive (SLC) 13
+1 Neyam Shai Murad (40K) 135
+1 Obelisk of Esper (C13) 250
+1 Ojer Taq, Deepest Foundation (LCI) 26
+1 Orzhov Basilica (2X2) 409
+1 Path of Bravery (M14) 26
+1 Path to Exile (ECC) 65
+1 Plains (40K) 306
+1 Plains (DFT) 272
+1 Plains (EOE) 262
+1 Plains (EOE) 268
+1 Plains (EOE) 267
+1 Polluted Delta (MH3) 356
+1 Primaris Chaplain (40K) 137
+1 Primaris Eliminator (40K) 50
+1 Prismatic Vista (SPG) 38
+1 Reaver Titan (40K) 163
+1 Relic of Legends (DMU) 236
+1 Roaming Throne (LCI) 258
+1 Sanguinary Priest (40K) 53
+1 Sceptre of Eternal Glory (40K) 166
+1 Sicarian Infiltrator (40K) 25
+1 Skullclamp (40K) 248
+1 Sol Ring (40K) 251
+1 Space Marine Devastator (40K) 14
+1 Space Marine Scout (40K) 15
+1 Swamp (40K) 310
+1 Swords to Plowshares (SPG) 54
+1 Temple of Silence (TDC) 406
+1 The Golden Throne (40K) 157
+1 Throne of the God-Pharaoh (AKH) 237
+1 Ultramarines Honour Guard (40K) 18
+1 Urborg, Tomb of Yawgmoth (TSR) 287
+1 Urza's Incubator (DMR) 453
+1 Utter End (40K) 226
+1 Vanguard Suppressor (40K) 27
+1 Vanquisher's Banner (LCC) 316
+1 Vexilus Praetor (40K) 19
+1 Voice of Victory (TDM) 331
+1 Void Rend (SNC) 230
+1 Watery Grave (UNF) 278
+1 Wrath of God (DMR) 416
+1 Zephyrim (40K) 20

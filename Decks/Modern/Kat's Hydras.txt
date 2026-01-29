@@ -1,0 +1,39 @@
+1 Archdruid's Charm (MKM) 151
+2 Asceticism (LTC) 233
+2 Beast Within (LTC) 234
+1 Breeding Pool (EOE) 251
+1 Elvish Mystic (CMM) 284
+2 Evolution Charm (TSR) 202
+2 Farseek (M13) 170
+1 Farseek (LTC) 244
+1 Forest (ZEN) 249
+1 Forest (UND) 96 *F*
+1 Forest (DSK) 276
+1 Forest (BLB) 278
+1 Garruk's Uprising (FDN) 220
+1 Heroes' Bane (JOU) 126 *F*
+1 Heroes' Bane (C20) 175
+4 Hinterland Harbor (OTC) 300
+2 Hydroid Krasis (M3C) 266
+2 Incubation Druid (MOC) 302
+1 Island (BLB) 267 *F*
+1 Island (EOE) 263 *F*
+1 Karametra's Acolyte (THS) 160
+1 Karametra's Acolyte (PTHS) 160 *F*
+1 Kiora's Follower (PBNG) 150
+2 Kiora's Follower (LCC) 273
+2 Lignify (LRW) 228
+1 Nylea, God of the Hunt (THS) 166
+1 Paradise Druid (SPG) 80
+2 Polukranos, World Eater (THS) 172
+1 Primordial Hydra (M13) 183
+2 Prophet of Kruphix (THS) 199
+2 Simic Charm (CMR) 451
+2 Skylasher (DGM) 49
+3 Tangled Islet (DMU) 258
+3 Temple of Mystery (TDC) 404
+2 Thassa, God of the Sea (LCC) 176
+2 Thragtusk (NCC) 316
+1 Thrun, Breaker of Silence (ONE) 331
+1 Thrun, Breaker of Silence (ONE) 186
+1 Wildwood Scourge (FDN) 236 *F*

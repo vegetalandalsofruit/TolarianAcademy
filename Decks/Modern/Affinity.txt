@@ -1,0 +1,30 @@
+4 Arcbound Ravager (MMA) 198
+4 Blinkmoth Nexus (2XM) 311
+4 Cranial Plating (2XM) 245
+4 Darksteel Citadel (C21) 285
+4 Dispatch (EOC) 64
+2 Etched Champion (MM2) 209
+2 Glimmervoid (2XM) 319
+1 Inkmoth Nexus (WMC) 2017 *F*
+2 Inkmoth Nexus (MBS) 145
+3 Memnite (SOM) 174
+4 Mox Opal (2XM) 275
+4 Ornithopter (DMR) 233
+1 Plains (ECL) 269
+4 Signal Pest (MBS) 131
+3 Spire of Industry (EOC) 183
+4 Springleaf Drum (ECL) 260
+4 Steel Overseer (EOC) 144
+2 Tempered Steel (2XM) 34
+4 Vault Skirge (NPH) 76
+
+// SIDEBOARD
+3 Ancient Grudge (TSR) 151
+2 Blood Moon (2XM) 118
+1 Etched Champion (MM2) 209
+1 Ethersworn Canonist (2XM) 14
+1 Ghirapur Aether Grid (MOC) 281
+2 Rest in Peace (BIG) 4
+1 Spellskite (CLB) 873
+3 Thoughtseize (2XM) 109
+1 Whipflare (CM2) 130

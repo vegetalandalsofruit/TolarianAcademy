@@ -1,0 +1,97 @@
+// COMMANDER
+1 Tuvasa the Sunlit (C18) 47 *F*
+
+1 Ajani, the Greathearted (SLD) 520 *F*
+1 All That Glitters (CMM) 9
+1 An Offer You Can't Refuse (SLP) 7
+1 Ancestral Mask (PLST) EMA-157
+1 Aqueous Form (CMR) 56
+1 Arcane Signet (LCC) 104
+1 Archetype of Courage (BNG) 4
+1 Armadillo Cloak (PLST) EMA-195
+1 Asceticism (LTC) 233
+1 Audacity (BRO) 169
+1 Authority of the Consuls (FDN) 137
+1 Bear Umbra (SLD) 1723
+1 Biomass Mutation (DSC) 214
+1 Blind Obedience (WOT) 1
+1 Boon Satyr (C18) 132
+1 Bow of Nylea (THS) 153
+1 Breeding Pool (EXP) 15 *F*
+1 Brilliant Wings (FIC) 454
+1 Burgeoning (SLD) 408
+1 Canopy Vista (TDC) 343
+1 Command Tower (ECC) 60
+1 Composer of Spring (CMM) 769
+1 Copperhorn Scout (CN2) 179
+1 Counterspell (STA) 15
+1 Daybreak Coronet (UMA) 14
+1 Destiny Spinner (WOC) 123
+1 Enchantress's Presence (WOC) 125
+1 Estrid's Invocation (MH3) 269
+1 Estrid, the Masked (C18) 40 *F*
+1 Ethereal Armor (DSK) 7
+1 Exploration (2XM) 351
+1 Flitterstep Eidolon (BNG) 40
+1 Flooded Strand (MH3) 464
+1 Forced Adaptation (RVR) 140
+3 Forest (FDN) 291
+1 Ghostly Prison (ONC) 71
+1 Glacial Fortress (SLD) 456
+1 Hallowed Fountain (ECL) 347
+1 Hardened Scales (WOT) 55
+1 Helm of the Gods (ORI) 230
+1 Herald of the Pantheon (CMM) 898
+1 Hinterland Harbor (LTC) 317
+1 Idyllic Tutor (THB) 301
+1 Invisible Stalker (ZNC) 27
+2 Island (ECL) 275
+1 Ivy, Gleeful Spellthief (DMU) 201
+1 Jukai Naturalist (NEO) 510
+1 Karametra's Acolyte (PTHS) 160 *F*
+1 Karametra, God of Harvests (C20) 218
+1 Karmic Justice (WOT) 65
+1 Kutzil, Malamet Exemplar (LCI) 304
+1 Mana Drain (CMR) 637
+1 Mesa Enchantress (SLD) 282
+1 Mirari's Wake (MH2) 320
+1 Mirrormade (ELD) 347
+1 Misty Rainforest (MH2) 477
+1 Naturalize (M19) 190
+1 Nylea's Colossus (C18) 33
+1 Nylea, God of the Hunt (PLST) THS-166
+1 Nyxborn Hydra (MH3) 164
+1 Ondu Spiritdancer (CMM) 756
+1 Path to Exile (SLD) 2227
+3 Plains (BLB) 262
+1 Primal Rage (10E) 286
+1 Privileged Position (2X2) 385
+1 Propaganda (SLD) 381 *F*
+1 Rancor (2X2) 156
+1 Razorverge Thicket (ZNE) 15
+1 Reliquary Tower (CMM) 663
+1 Sanctum Weaver (MH2) 462
+1 Selesnya Sanctuary (2X2) 411
+1 Sigarda, Font of Blessings (MAT) 182
+1 Sigil of the Nayan Gods (ARB) 78
+1 Simic Growth Chamber (DSC) 298
+1 Slippery Bogle (SPG) 144 *F*
+1 Sol Ring (ECC) 57
+1 Sphere of Safety (SLD) 588 *F*
+1 Spider Umbra (UMA) 184
+1 Sterling Grove (MH2) 293
+1 Swords to Plowshares (TDC) 134
+1 Sythis, Harvest's Hand (MH2) 377
+1 Temple Garden (RVR) 300
+1 Temple of Enlightenment (THB) 349
+1 Temple of Mystery (M21) 389
+1 Temple of Plenty (THB) 351
+1 Thassa, God of the Sea (LCC) 176
+1 Umbra Mystic (WOC) 82
+1 Unflinching Courage (C18) 192
+1 Weaver of Harmony (NEO) 483
+1 Windswept Heath (ZNE) 5
+1 Wizard Class (BLC) 112
+1 Wooded Bastion (2XM) 332
+1 Yavimaya Enchantress (C18) 167
+1 Yavimaya, Cradle of Growth (LTC) 377

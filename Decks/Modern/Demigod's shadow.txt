@@ -1,0 +1,26 @@
+2 Abrupt Decay (GK1) 57
+3 Arid Mesa (MH2) 244
+2 Birds of Paradise (RVR) 133
+3 Blood Crypt (ECL) 262
+4 Buried Alive (MH3) 273
+2 Dark Confidant (RVR) 71
+4 Death's Shadow (2XM) 82
+4 Demigod of Revenge (MMA) 187
+2 Forest (ECL) 273
+2 Inquisition of Kozilek (2X2) 80
+2 Kolaghan's Command (M3C) 268
+1 Lightning Bolt (MM2) 122
+1 Lightning Bolt (STA) 42
+1 Lightning Bolt (CLB) 187
+1 Lightning Bolt (CLB) 401
+2 Mountain (ECL) 272
+3 Overgrown Tomb (ECL) 266
+2 Stomping Ground (EOE) 258
+2 Surgical Extraction (2X2) 94
+2 Swamp (ECL) 271
+3 Tarmogoyf (TSR) 235
+2 Temur Battle Rage (CMM) 264
+2 Thoughtseize (2XM) 109
+2 Traverse the Ulvenwald (INR) 221
+3 Varolz, the Scar-Striped (DGM) 112
+3 Windswept Heath (MH3) 235

@@ -1,0 +1,29 @@
+4 Architects of Will (ARC) 77
+2 Beast Within (LCC) 233
+2 Beast Within (EOC) 93
+3 Blackcleave Cliffs (DSC) 263
+4 Bloodbraid Elf (M3C) 256
+4 Bloodstained Mire (MH3) 216
+3 Blooming Marsh (OTJ) 266
+2 Copperline Gorge (BLC) 301
+4 Deadshot Minotaur (ARB) 52
+4 Demonic Dread (ARB) 38
+4 Faerie Macabre (GVL) 42
+1 Forest (ECL) 273
+4 Fulminator Mage (2XM) 196
+3 Living End (TSR) 121
+4 Monstrous Carabid (ARB) 43
+1 Mountain (ECL) 272
+1 Overgrown Tomb (ECL) 266
+2 Shriekmaw (ECC) 85
+1 Smoldering Marsh (ECC) 168
+1 Stomping Ground (EOE) 258
+4 Street Wraith (DMR) 102
+2 Swamp (ECL) 271
+
+// SIDEBOARD
+4 Brindle Boar (M14) 167
+2 Faerie Macabre (GVL) 42
+4 Ingot Chewer (ECC) 95
+3 Ricochet Trap (WWK) 87
+2 Shriekmaw (ECC) 85

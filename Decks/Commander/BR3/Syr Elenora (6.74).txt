@@ -1,0 +1,75 @@
+// COMMANDER
+1 Syr Elenora, the Discerning (J25) 64
+
+1 Aether Syphon (DFT) 38
+1 Aetherize (FDN) 151
+1 Alandra, Sky Dreamer (MKC) 94
+1 An Offer You Can't Refuse (FIC) 267
+1 Aqueous Form (CMR) 56
+1 Arcane Denial (DRC) 70
+1 Arcane Signet (ECC) 55
+1 Archmage's Charm (OTP) 8
+1 Blue Sun's Zenith (STA) 12
+1 Body of Knowledge (DSC) 112
+1 Brainstorm (TLE) 155
+1 Chasm Skulker (FIC) 262
+1 Clinquant Skymage (FDN) 33
+1 Cloud of Faeries (WOC) 86
+1 Commander's Sphere (ECC) 139
+1 Consider (TLE) 157
+1 Counterspell (MAR) 9
+1 Decanter of Endless Water (CLB) 309
+1 Defiler of Dreams (DMU) 46
+1 Empyrial Plate (C16) 251
+1 Enter the Enigma (DSK) 52
+1 Finale of Revelation (FDN) 589
+1 Flow of Ideas (SHM) 38
+1 Flow of Knowledge (BRO) 49
+1 Frantic Search (TLE) 159
+1 Gadwick, the Wizened (ELD) 48
+1 High Tide (DMR) 54
+28 Island (TMT) 254
+1 Keep Safe (IKO) 56
+1 Lonely Sandbar (EOC) 166
+1 Loyal Drake (CMM) 104
+1 Lyla, Holographic Assistant (SPE) 7
+1 Mind Stone (FIC) 353
+1 Mulldrifter (ECC) 67
+1 Myriad Landscape (EOC) 169
+1 Mystic Sanctuary (MKC) 277
+1 Nadir Kraken (J25) 332
+1 Negate (FDN) 710 *F*
+1 Nerd Rage (PIP) 34
+1 Nezahal, Primal Tide (CMR) 401
+1 Ominous Seas (IKO) 61
+1 Oneirophage (J25) 337
+1 Ponder (MAR) 13
+1 Pongify (TDC) 160
+1 Preordain (TDC) 161
+1 Proft's Eidetic Memory (MKM) 67
+1 Propaganda (FIC) 268
+1 Psychosis Crawler (BLC) 282
+1 Pull from Tomorrow (EOC) 76
+1 Rapid Hybridization (TDC) 162
+1 Reliquary Tower (TDC) 386
+1 Rewind (M21) 63
+1 Robe of the Archmagi (CLB) 91
+1 Rogue's Passage (FIC) 415
+1 Sapphire Medallion (MH3) 296
+1 Sky Diamond (SCD) 273
+1 Slip Through Space (OGW) 47
+1 Sol Ring (ECC) 57
+1 Solemn Simulacrum (FIC) 360
+1 Spellbook (M10) 220
+1 Stroke of Genius (MOC) 238
+1 Sturmgeist (ISD) 82
+1 Swiftfoot Boots (TLE) 317
+1 Teferi's Ageless Insight (J25) 371
+1 Thassa, God of the Sea (LCC) 176
+1 The Magic Mirror (ELD) 51
+1 Thirst for Discovery (DBL) 352
+1 Thought Vessel (FIC) 368
+1 Treasure Cruise (TDC) 169
+1 Triskaidekaphile (BLC) 178
+1 Vnwxt, Verbose Host (DFT) 73
+1 Wizard Class (BLC) 112

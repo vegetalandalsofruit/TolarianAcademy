@@ -1,0 +1,41 @@
+2 Anafenza, Kin-Tree Spirit (CMM) 11
+4 Birds of Paradise (RVR) 133
+4 Chord of Calling (RVR) 134
+4 Collected Company (DTK) 177
+2 Eternal Witness (M3C) 227
+1 Fiend Hunter (INR) 22
+2 Forest (ECL) 273
+2 Gavony Township (MOC) 406
+1 Godless Shrine (EOE) 254
+1 Horizon Canopy (IMA) 240
+4 Kitchen Finks (UMA) 216
+1 Marsh Flats (MH2) 248
+2 Melira, Sylvok Outcast (NPH) 115
+1 Murderous Redcap (UMA) 217
+3 Noble Hierarch (2XM) 177
+2 Overgrown Tomb (ECL) 266
+1 Plains (ECL) 269
+1 Qasali Pridemage (2X2) 267
+1 Razorverge Thicket (BLC) 325
+2 Renegade Rallier (AER) 133
+1 Scavenging Ooze (FDN) 232
+1 Swamp (ECL) 271
+2 Temple Garden (ECL) 268
+4 Verdant Catacombs (MH2) 260
+3 Viscera Seer (TDC) 199
+2 Voice of Resurgence (2XM) 227
+2 Wall of Roots (TDC) 278
+4 Windswept Heath (MH3) 235
+
+// SIDEBOARD
+2 Abrupt Decay (GK1) 57
+1 Anafenza, the Foremost (KTK) 163
+1 Gideon, Ally of Zendikar (BFZ) 29
+1 Kataki, War's Wage (MD1) 24
+1 Path to Exile (LTC) 175
+1 Path to Exile (MKC) 78
+1 Path to Exile (PIP) 169
+1 Reclamation Sage (FDN) 231
+1 Selfless Spirit (TDC) 129
+2 Stony Silence (MM3) 25
+3 Tidehollow Sculler (MD1) 2
