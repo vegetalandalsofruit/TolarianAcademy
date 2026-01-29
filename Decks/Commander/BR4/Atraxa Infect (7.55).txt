@@ -3,7 +3,6 @@
 
 1 Access Tunnel (TDC) 337
 1 Aqueous Form (CMR) 56
-1 Archmage Ascension (ZEN) 42
 1 Aspirant's Ascent (ONE) 40
 1 Baleful Mastery (OTC) 126
 1 Baral, Chief of Compliance (MUL) 8
@@ -11,7 +10,6 @@
 1 Bitter Triumph (SCH) 42
 1 Blight Mamba (ONC) 105
 1 Blighted Agent (NPH) 29
-1 Bojuka Bog (LTC) 358
 1 Breeding Pool (CLU) 275 *F*
 1 Cabal Coffers (MH2) 325
 1 Changeling Outcast (OTC) 128
@@ -48,6 +46,7 @@
 1 Inkmoth Nexus (SLD) 45
 1 Intervene (ULG) 33
 1 Invisible Stalker (PLST) ZNC-27
+3 Island (ONE) 366 *F*
 1 Ixhel, Scion of Atraxa (ONC) 37
 1 Jace's Sanctum (C19) 88
 1 Jet Medallion (MH3) 346
@@ -62,7 +61,6 @@
 1 Overgrown Tomb (UNF) 284
 1 Perplex (RAV) 217
 1 Pestilent Syphoner (ONE) 103
-1 Phyrexian Hydra (MBS) 85
 1 Phyrexian Unlife (WOT) 11
 1 Plague Stinger (ONC) 96
 1 Polluted Delta (MH3) 465
@@ -77,9 +75,8 @@
 1 Sol Ring (40K) 252
 1 Steady Progress (MM2) 58
 1 Stinging Hivemaster (ONE) 110
-1 Stonecoil Serpent (ELD) 385
 1 Sunken Ruins (EXP) 27 *F*
-2 Swamp (ONE) 367 *F*
+3 Swamp (ONE) 367 *F*
 1 Tainted Strike (SOM) 80
 1 Tekuthal, Inquiry Dominus (ONE) 302
 1 Temple Garden (UNF) 281
@@ -87,7 +84,7 @@
 1 Temple of Plenty (ONC) 170
 1 Temple of Silence (OTC) 333
 1 Tezzeret's Gambit (EOC) 47
-1 Triumph of the Hordes (NPH) 123
+1 Thirsting Roots (ONE) 185
 1 Turn Aside (SOM) 49
 1 Urborg, Tomb of Yawgmoth (LTC) 375
 1 Vampiric Tutor (DMR) 108
