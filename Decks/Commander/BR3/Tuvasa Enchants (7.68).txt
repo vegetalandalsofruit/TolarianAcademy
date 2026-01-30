@@ -32,6 +32,7 @@
 1 Estrid, the Masked (C18) 40 *F*
 1 Ethereal Armor (DSK) 7
 1 Exploration (2XM) 351
+1 Farseek (BLC) 119
 1 Flitterstep Eidolon (BNG) 40
 1 Flooded Strand (MH3) 464
 1 Forced Adaptation (RVR) 140
@@ -58,7 +59,6 @@
 1 Mirrormade (ELD) 347
 1 Misty Rainforest (MH2) 477
 1 Naturalize (M19) 190
-1 Nylea's Colossus (C18) 33
 1 Nylea, God of the Hunt (PLST) THS-166
 1 Nyxborn Hydra (MH3) 164
 1 Ondu Spiritdancer (CMM) 756
