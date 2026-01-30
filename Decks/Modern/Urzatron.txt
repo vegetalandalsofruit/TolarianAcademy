@@ -1,7 +1,7 @@
 4x Ancient Stirrings (m3c) 219
 4x Chromatic Sphere (sch) 30
 4x Chromatic Star (tsr) 263
-2x Emrakul, the Aeons Torn (2x2) 1
+2x Ulamog, the Ceaseless Hunger (cmm) 5
 4x Expedition Map (fdn) 724 *F*
 2x Forest (ecl) 273
 1x Ghost Quarter (mb2) 109
