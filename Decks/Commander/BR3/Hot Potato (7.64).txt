@@ -17,18 +17,16 @@
 1 Brainstorm (40K) 192
 1 Burnout (ALL) 68
 1 Cabal Coffers (MH2) 301
-1 Champion's Helm (CMM) 375
 1 Chromatic Lantern (SLD) 2314
 1 Circular Logic (SLD) 1519
 1 Collective Brutality (INR) 308
 1 Command Tower (EOC) 59
 1 Condescend (J22) 282
 1 Counterspell (STA) 15
-1 Cryptic Command (SLD) 905 *F*
+1 Cryptic Command (MM2) 43
 1 Curator's Ward (DOM) 49
 1 Cyclonic Rift (2XM) 339
 1 Dakra Mystic (PLST) JOU-35
-1 Damnation (2X2) 73
 1 Dark Petition (PORI) 90p
 1 Darkslick Shores (ONE) 372
 1 Darksteel Ingot (OTC) 256
@@ -40,6 +38,7 @@
 1 Doomed Necromancer (AFC) 98
 1 Dread Return (C14) 142
 1 Drowned Catacomb (SLD) 457
+1 Expedition Map (M3C) 292
 1 Exquisite Blood (SLD) 206
 1 Faithless Looting (TDC) 213
 1 Fascination (FRF) 34
@@ -50,6 +49,7 @@
 1 Grim Tutor (M21) 315
 1 Hero's Demise (BOK) 68
 1 Hero's Downfall (FDN) 175
+1 Hexing Squelcher (ECL) 317
 1 Hollowhead Sliver (CMM) 878
 1 Ice Tunnel (KHM) 262
 1 Island (DSK) 273
@@ -65,7 +65,6 @@
 1 Moria Scavenger (LTC) 63
 1 Mystic Redaction (MH2) 338
 1 Ob Nixilis, the Hate-Twisted (J22) 450
-1 Orcish Bowmasters (LTR) 433
 1 Polluted Delta (MH3) 356
 1 Price of Knowledge (C13) 89
 1 Professor Zei, Anthropologist (TLA) 238
@@ -88,7 +87,7 @@
 1 Sol Ring (SLC) 19
 1 Steam Vents (UNF) 283
 1 Sunken Ruins (FIC) 430
-3 Swamp (DSK) 274
+4 Swamp (DSK) 274
 1 Swiftfoot Boots (TDC) 328
 1 Temple of Deceit (FDN) 697
 1 Temple of Epiphany (WHO) 316
