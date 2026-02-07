@@ -1,0 +1,93 @@
+// COMMANDER
+1x High Perfect Morcant (ecl) 373
+
+1x Abomination of Llanowar (khc) 81
+1x Abrupt Decay (wmc) 2016 *F*
+1x Adaptive Automaton (sld) 1109 *F*
+1x Arcane Signet (sld) 820
+1x Assassin's Trophy (sld) 139
+1x Baleful Mastery (otc) 126
+1x Beast Within (tdc) 249
+1x Blight Rot (ecl) 89
+1x Bloodline Bidding (ecl) 91
+1x Blowfly Infestation (shm) 58
+1x Cavern of Souls (puma) U32 *F*
+1x Chronicle of Victory (ecl) 346
+1x Circle of Dreams Druid (pafr) 176p
+1x Coat of Arms (sld) 1712
+1x Craterhoof Behemoth (cmm) 280
+1x Cultivate (m21) 317
+1x Deathcap Glade (dbl) 528
+1x Deathrite Shaman (rtr) 213
+1x Dionus, Elvish Archdruid (j25) 52
+1x Dwynen, Gilt-Leaf Daen (fdn) 217
+1x Eclipsed Realms (ecl) 263
+1x Eladamri, Korvecdal (mh3) 149
+1x Elderfang Venom (khc) 15
+1x Elven Ambush (khm) 391
+1x Elves of Deep Shadow (sld) 1710
+1x Elvish Archdruid (ddu) 5
+1x Elvish Champion (10e) 261
+1x Elvish Harbinger (plst) DD1-4
+1x Elvish Mystic (sld) 475
+1x Elvish Warmaster (khm) 363
+1x Evolution Sage (sld) 765 *F*
+1x Evolving Wilds (dsc) 274
+1x Ezuri, Renegade Leader (plst) C14-195
+1x Flourishing Defenses (ecc) 107
+10x Forest (ecl) 273
+1x Formidable Speaker (ecl) 176
+1x Galadhrim Brigade (ltc) 502
+1x Gilt-Leaf Palace (sld) 1322
+1x Glissa Sunslayer (ecc) 122
+1x Golgari Rot Farm (ecc) 151
+1x Heroic Intervention (afc) 161
+1x Imperious Perfect (fdn) 719 *F*
+1x Iron-Shield Elf (ecl) 108
+1x Lathril, Blade of the Elves (fdn) 349
+1x Leaf-Crowned Visionary (dmu) 167
+1x Life from the Loam (tdc) 96
+1x Lightning Greaves (scd) 269
+1x Llanowar Elves (fdn) 429 *F*
+1x Llanowar Mentor (tsr) 216
+1x Lys Alana Dignitary (ecl) 180
+1x Lys Alana Huntmaster (c14) 205
+1x Marwyn, the Nurturer (sld) 1960 *F*
+1x Massacre Girl, Known Killer (mkm) 344
+1x Melira, Sylvok Outcast (nph) 115
+1x Morcant's Loyalist (ecl) 341
+1x Naturalize (plst) M19-190
+1x Necroskitter (mm2) 88
+1x Overgrown Tomb (ecl) 266
+1x Path of Ancestry (c20) 298
+1x Poison-Tip Archer (khc) 90
+1x Priest of Titania (plst) C14-210
+1x Putrefy (sta) 126
+1x Reclamation Sage (fdn) 340
+1x Scarblade's Malice (ecl) 119
+1x Shaman of the Pack (sld) 789 *F*
+1x Skullclamp (sld) 1112
+1x Sol Ring (sld) 1905 *F*
+1x Swamp (ecl) 271
+1x Sword of Body and Mind (2xm) 363
+1x Sword of Feast and Famine (2xm) 364
+1x Sword of Fire and Ice (2xm) 365
+1x Sword of Forge and Frontier (pspl) 3
+1x Sword of Hearth and Home (mh2) 324
+1x Sword of Light and Shadow (2xm) 366
+1x Sword of Once and Future (mom) 375
+1x Sword of Sinew and Steel (mh1) 228 *F*
+1x Sword of Truth and Justice (sld) 1096 *F*
+1x Sword of War and Peace (2xm) 367
+1x Trystan's Command (ecl) 344
+1x Twilight Mire (dsc) 320
+1x Tyvar Kell (khm) 287
+1x Unbury (ecl) 123
+1x Undergrowth Stadium (cmm) 666
+1x Urza's Incubator (dmr) 453
+1x Verdant Catacombs (spg) 113
+1x Vernal Fen (eoc) 24
+1x Victim of Night (isd) 124
+1x Virulent Emissary (ecl) 202
+1x Wolverine Riders (khc) 14
+1x Yavimaya, Cradle of Growth (m3c) 409
