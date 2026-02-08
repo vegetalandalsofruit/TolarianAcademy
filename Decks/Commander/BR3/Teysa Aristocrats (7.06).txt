@@ -1,0 +1,82 @@
+// COMMANDER
+1 Teysa, Orzhov Scion (RVR) 233
+
+1 Afterlife Insurance (CLU) 23
+1 Arcane Signet (ECC) 55
+1 Ashnod's Altar (CMM) 368
+1 Bartolome del Presidio (LCI) 224
+1 Bastion of Remembrance (TDC) 171
+1 Blasting Station (5DN) 107
+1 Blood Artist (INR) 97
+1 Blot Out the Sky (STX) 167
+1 Bojuka Bog (EOC) 149
+1 Braids, Arisen Nightmare (EOC) 82
+1 Carrion Feeder (MH1) 81
+1 Caves of Koilos (TDC) 348
+1 Command Tower (ECC) 59
+1 Concealed Courtyard (OTJ) 268
+1 Corpse Knight (DRC) 50
+1 Cruel Celebrant (LCC) 267
+1 Deadly Dispute (TDC) 177
+1 Debtors' Knell (C21) 215
+1 Despark (TDC) 284
+1 Dreadhorde Invasion (DRC) 91
+1 Dusk // Dawn (DRC) 65
+1 Elas il-Kor, Sadistic Pilgrim (DMU) 198
+1 Elenda, the Dusk Rose (LCC) 268
+1 Endrek Sahr, Master Breeder (CMM) 155
+1 Enduring Innocence (DSK) 6
+1 Ethereal Absolution (RNA) 170
+1 Fetid Heath (TDC) 362
+1 Godless Shrine (EOE) 254
+1 Imperious Oligarch (RNA) 184
+1 Indebted Spirit (MH3) 31
+1 Infestation Sage (FDN) 64
+1 Isolated Chapel (TDC) 373
+1 Liliana, Dreadhorde General (FDN) 176
+1 Lingering Souls (MD1) 11
+1 Lurrus of the Dream-Den (IKO) 226
+1 Martial Coup (BLC) 146
+1 Mentor of the Meek (INR) 34
+1 Merciless Eviction (GTC) 177
+1 Mind Stone (DSC) 248
+1 Ministrant of Obligation (RVR) 23
+1 Mirkwood Bats (LTR) 95
+1 Morbid Opportunist (TDC) 188
+1 Mortify (FDN) 662
+1 Nine-Lives Familiar (FDN) 66
+1 Ophiomancer (TDC) 193
+1 Orzhov Basilica (DRC) 164
+1 Orzhov Enforcer (RVR) 87
+1 Orzhov Signet (TDC) 323
+1 Painter's Servant (SHM) 257
+1 Path to Exile (PIP) 169
+1 Phyrexian Arena (ONE) 104
+1 Pitiless Plunderer (LCC) 208
+10 Plains (ECL) 269
+1 Plumb the Forbidden (BLC) 188
+1 Priest of Forgotten Gods (RVR) 90
+1 Reassembling Skeleton (M12) 104
+1 Seraph of the Scales (CLU) 208
+1 Shineshadow Snarl (LCC) 351
+1 Skullclamp (TDC) 103
+1 Sol Ring (ECC) 57
+1 Spirit Bonds (M15) 37
+1 Stroke of Midnight (TDC) 132
+12 Swamp (ECL) 271
+1 Swords to Plowshares (EOC) 45
+1 Tainted Field (DSC) 302
+1 Talisman of Hierarchy (TDC) 331
+1 Temple of Silence (TDC) 406
+1 Teysa Karlov (CMM) 359
+1 Thalisse, Reverent Medium (TDC) 306
+1 Tocasia's Welcome (TDC) 135
+1 Unearth (2X2) 96
+1 Vault of the Archangel (TDC) 410
+1 Victimize (TDC) 198
+1 Village Rites (INR) 137
+1 Vindictive Vampire (CLU) 126
+1 Viscera Seer (TDC) 199
+1 Welcoming Vampire (VOW) 46 *F*
+1 Woe Strider (TDC) 201
+1 Zulaport Cutthroat (BLC) 190
