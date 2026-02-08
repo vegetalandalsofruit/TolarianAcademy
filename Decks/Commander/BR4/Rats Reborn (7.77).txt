@@ -1,3 +1,6 @@
+//COMMANDER
+1x Marrow-Gnawer (plst) CHK-124 *F*
+
 1x Adaptive Automaton (m12) 201
 1x Altar's Reap (plst) DDR-37
 1x Ashcoat of the Shadow Swarm (j22) 19
@@ -36,7 +39,6 @@
 1x Lord Skitter, Sewer King (woe) 97
 1x Lord Skitter's Blessing (woe) 98
 1x Lord Skitter's Butcher (woe) 99
-1x Marrow-Gnawer (plst) CHK-124 *F*
 1x Marvin, Murderous Mimic (dsk) 253
 1x Mirrormind Crown (ecl) 258
 1x Ogre Slumlord (blc) 186
