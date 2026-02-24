@@ -54,7 +54,7 @@
 1x Mana Drain (otp) 11
 1x Mawloc (40k) 133
 1x Misty Rainforest (spg) 111
-2x Mountain (dft) 515 *F*
+1x Mountain (dft) 515 *F*
 1x Mutational Advantage (pip) 111
 1x Nexos (40k) 95
 1x Old One Eye (40k) 96
@@ -93,3 +93,4 @@
 1x Winged Hive Tyrant (40k) 148
 1x Wooded Foothills (mh3) 361
 1x Zoanthrope (40k) 149
+1x Reliquary Tower
