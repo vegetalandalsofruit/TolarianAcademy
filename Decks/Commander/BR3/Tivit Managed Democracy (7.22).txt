@@ -1,0 +1,99 @@
+// COMMANDER
+1 Tivit, Seller of Secrets (NCC) 109
+
+1 Abuelo, Ancestral Echo (LCI) 219
+1 Against All Odds (ONE) 1
+1 Altar of the Brood (KTK) 216
+1 Aminatou, the Fateshifter (2X2) 169
+1 An Offer You Can't Refuse (FDN) 311
+1 Another Round (OTJ) 1
+1 Arcane Signet (EOC) 53
+1 Archaeomancer (UMA) 45
+1 Astral Drift (C20) 76
+1 Azorius Chancery (DSC) 261
+1 Ballot Broker (CN2) 13
+1 Bite of the Black Rose (CNS) 26
+1 Bitter Triumph (SCH) 42
+1 Blood Artist (INR) 97
+1 Brago's Representative (CNS) 14
+1 Brago, King Eternal (SLD) 1601
+1 Call to Mind (C14) 101
+1 Capital Punishment (CN2) 40
+1 Charming Prince (ELD) 335
+1 Cloudshift (A25) 7
+1 Coercive Portal (LCC) 109
+1 Conjurer's Closet (INR) 321
+1 Council Guardian (CNS) 15
+1 Council's Judgment (OTC) 79
+1 Counterspell (PF24) 1
+1 Cryptic Command (PLST) LRW-56
+1 Custodi Squire (CMM) 19
+1 Damnation (2X2) 73
+1 Desert of the Glorified (HOU) 171
+1 Desert of the Mindful (HOU) 173
+1 Desert of the True (DRC) 151
+1 Dismember (MM2) 79
+1 Disorder in the Court (VOC) 67
+1 Drowned Catacomb (PIP) 262
+1 Eerie Interlude (KHC) 22
+1 Evolving Wilds (VOW) 263 *F*
+1 Fabled Passage (EOC) 60
+1 Felidar Guardian (AER) 19
+1 Fetid Pools (TDC) 363
+1 Flood of Recollection (CMR) 61
+1 Flooded Strand (MH3) 220
+1 Glacial Fortress (PIP) 266
+1 Godless Shrine (EOE) 254
+1 Gravecrawler (TDC) 93
+1 Grim Tutor (SPG) 76
+1 Grudge Keeper (CNS) 28
+1 Hallowed Fountain (ECL) 265
+1 Hallowed Respite (MID) 373
+1 Illusion of Choice (CN2) 31
+1 Ingenious Prodigy (WOE) 333
+1 Irrigated Farmland (EOC) 162
+1 Island (ECL) 270
+1 Isochron Scepter (2XM) 264
+1 Lier, Disciple of the Drowned (MID) 313
+1 Lieutenants of the Guard (CN2) 16
+1 Lingering Souls (MD1) 11
+1 Magister of Worth (C21) 223
+1 Mana Drain (2X2) 57
+1 Marsh Flats (MH2) 248
+1 Mechanized Production (MKC) 109
+1 Mnemonic Wall (IMA) 67
+1 Mortify (MOC) 337
+4 Plains (ECL) 269
+1 Polluted Delta (MH3) 224
+1 Prairie Stream (TDC) 384
+1 Profane Tutor (MH2) 452
+1 Relic of Legends (DMU) 236
+1 Restoration Angel (MM3) 20
+1 Rise and Shine (MOC) 233
+1 Sen Triplets (2XM) 218
+1 Snapcaster Mage (UMA) 71
+1 Sol Ring (ECC) 58
+1 Soulherder (KHC) 93
+1 Spellskite (CLB) 873
+1 Sphinx's Revelation (RVR) 228 *F*
+1 Split Decision (CNS) 25
+1 Sunken Hollow (TDC) 398
+1 Supreme Verdict (2X2) 280
+1 Swamp (ECL) 271
+1 Teferi's Protection (2X2) 32
+1 Teleportation Circle (AFR) 364
+1 Terramorphic Expanse (ONE) 261
+1 Thassa, Deep-Dwelling (THB) 71
+1 Thassa, God of the Sea (LCC) 176
+1 The Immortal Sun (CMM) 393
+1 Trap the Trespassers (LTC) 108
+1 Triad of Fates (THS) 206
+1 Trial of a Time Lord (WHO) 29
+1 Tyrant's Choice (CNS) 30
+1 Vault 11: Voter's Dilemma (PIP) 121
+1 Victim of Night (ISD) 124
+1 Void Rend (SNC) 230
+1 Warren Soultrader (MH3) 110
+1 Watery Grave (GTC) 249
+1 Wrath of God (CMM) 70
+1 Y'shtola Rhul (FIN) 577
