@@ -85,7 +85,7 @@
 1 Tangled Islet (DSC) 306
 1 Temple of Mystery (M21) 389
 1 Three Steps Ahead (OTJ) 323
-1 Tidal Barracuda (SLD) 7405 *F*
+1 Tidal Barracuda (SLD) 7105 *F*
 1 Tranquil Thicket (DSC) 318
 1 Tropical Island (VMA) 321
 1 Verazol, the Split Current (ZNR) 370
