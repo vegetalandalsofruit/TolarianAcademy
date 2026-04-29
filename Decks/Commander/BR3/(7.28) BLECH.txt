@@ -1,0 +1,91 @@
+// COMMANDER
+1 Blech, Loafing Pest (SOS) 298
+
+1 Ambush Viper (INR) 186 *F*
+1 Ankle Biter (OTJ) 153
+1 Bala Ged Recovery (ZNR) 180
+1 Basilica Screecher (CLU) 105
+1 Beledros Witherbloom (BLC) 247
+1 Blex, Vexing Pest (STX) 148
+1 Blight Mound (C21) 36
+1 Blightbeetle (M20) 87
+1 Bloodchief Ascension (CMM) 139
+1 Bogwater Lumaret (SOS) 177
+1 Bontu's Monument (DRC) 124
+1 Bow of Nylea (THS) 153
+1 Brawn (M3C) 224
+1 Cauldron of Essence (SOS) 179
+1 Caustic Bronco (OTJ) 82
+1 Comforting Counsel (SOS) 143
+1 Courier Bat (VOW) 102
+1 Cryptolith Rite (INR) 189
+1 Dina, Soul Steeper (STX) 178
+1 Doubling Season (FDN) 216
+1 Elven Chorus (LTR) 160
+1 Enduring Tenacity (DSK) 95
+1 Erebos, God of the Dead (THS) 85
+1 Essence Warden (CMA) 106
+1 Essenceknit Scholar (SOS) 187
+1 Evendo, Waking Haven (EOE) 253
+1 Evolving Wilds (DSC) 274
+1 Excalibur II (FIN) 257
+1 Fabled Passage (EOC) 60
+1 Fanatic of Rhonas (MH3) 152
+1 Feral Appetite (SOC) 38
+1 Festering Thicket (ECC) 61
+6 Forest (ECL) 273
+1 Fountain of Renewal (M19) 235
+1 Garruk's Uprising (FDN) 220
+1 Golgari Rot Farm (ECC) 151
+1 Grave Pact (CMM) 165
+1 Gurmag Swiftwing (CLU) 113
+1 Haunted Mire (TDC) 369
+1 Hooded Hydra (MKC) 171
+1 Illegitimate Business (TMT) 186
+1 Jungle Hollow (NEO) 269
+1 Lluwen, Exchange Student // Pest Friend (SOS) 199
+1 Meltstrider Eulogist (EOE) 197
+1 Mortality Spear (STX) 207
+1 Moseo, Vein's New Dean (SOS) 91
+1 Nature's Claim (IMA) 177
+1 Necroblossom Snarl (DSC) 290
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Ohran Frostfang (OTC) 199
+1 Overgrown Tomb (ECL) 266
+1 Overgrowth (C18) 157
+1 Oxidize (DST) 79
+1 Pest Infestation (EOC) 103
+1 Pest Mascot (SOS) 209
+1 Pestilent Cauldron (STX) 154
+1 Phyrexian Altar (2X2) 311
+1 Phyrexian Arena (FDN) 180
+1 Primal Rage (10E) 286
+1 Prismatic Vista (MH1) 244
+1 Profane Tutor (MH2) 97
+1 Ramunap Excavator (M3C) 241
+1 Reanimate (DSC) 155
+1 Respite (CNS) 176
+1 Sanguine Bond (C21) 153
+1 Sapseep Forest (C21) 313
+1 Saryth, the Viper's Fang (MKC) 185
+1 Scute Mob (C18) 161
+1 Sedgemoor Witch (STX) 86
+1 Send in the Pest (SOS) 100
+1 Sol Ring (ECC) 57
+7 Swamp (ECL) 271
+1 Sylvan Anthem (MH2) 176
+1 Tablet of the Guilds (RTR) 235
+1 Teacher's Pest (SOS) 238
+1 Tend the Pests (STX) 242
+1 Terrasymbiosis (EOE) 210
+1 The Earth Crystal (FIN) 184
+1 The Great Henge (CMM) 294
+1 The Meathook Massacre (INR) 122
+1 Underground Mortuary (MKM) 271
+1 Utopia Sprawl (RVR) 159
+1 Vampiric Rites (FDN) 615
+1 Vernal Fen (ECC) 63
+1 Well of Lost Dreams (C13) 271
+1 Wild Growth (MKC) 195
+1 Yavimaya, Cradle of Growth (M3C) 409
+1 Zombify (SOA) 36
