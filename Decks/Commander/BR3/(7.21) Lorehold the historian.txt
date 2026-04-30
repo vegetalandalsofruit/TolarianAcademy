@@ -1,0 +1,91 @@
+// COMMANDER
+1 Lorehold, the Historian (SOS) 201
+
+1 Abrade (SOA) 37
+1 Approach of the Second Sun (AKH) 4
+1 Archivist of Oghma (CLB) 4
+1 Arid Mesa (MH2) 244
+1 Aziza, Mage Tower Captain (SOS) 174
+1 Beacon of Destruction (DDS) 35
+1 Beacon of Immortality (E02) 1
+1 Biblioplex Assistant (STX) 251
+1 Bloodstained Mire (MH3) 216
+1 Boros Charm (OTC) 216
+1 Boros Fury-Shield (RAV) 5
+1 Boros Garrison (CLU) 231
+1 Brass's Bounty (FDN) 190
+1 Caldera Pyremaw (TDC) 33
+1 Call Forth the Tempest (LTC) 509
+1 Chandra, Hope's Beacon (MOM) 134
+1 Charming Prince (FDN) 568
+1 Clarion Spirit (KHM) 6
+1 Cloud Key (EOC) 54
+1 Cloudshift (A25) 7
+1 Deflecting Palm (MKC) 205
+1 Double Vision (NCC) 267
+1 Dracogenesis (TDM) 105
+1 Dragon's Rage Channeler (H2R) 9
+1 Elegant Parlor (MKM) 260
+1 Emeritus of Conflict // Lightning Bolt (SOS) 113
+1 Ephemerate (MH1) 7
+1 Erode (SOS) 15
+1 Explosive Singularity (NEO) 140
+1 Explosive Welcome (STX) 100
+1 Faithless Looting (TDC) 213
+1 Firebolt (MH1) 122
+1 Firespitter Whelp (FDN) 197
+1 Flashback (SOS) 115
+1 Flooded Strand (MH3) 464
+1 Fortune, Loyal Steed (OTJ) 12
+1 Gandalf, White Rider (LTR) 290
+1 Ghostly Prison (TDC) 116
+1 Glittering Massif (EOC) 22
+1 Guttersnipe (TDC) 217
+1 Hexing Squelcher (ECL) 145
+1 Hit the Mother Lode (LCI) 153
+1 Improvisation Capstone (SOS) 120
+1 Isochron Scepter (2XM) 264
+1 Leyline Tyrant (TDC) 221
+1 Leyline of Lightning (GPT) 68
+1 Lightning Bolt (CLB) 401
+1 Lightning Greaves (OTC) 260
+1 Lightning Helix
+1 Longshot, Rebel Bowman (TLE) 120
+1 Loran's Escape (BRO) 14
+1 Lorehold Campus (STX) 268
+1 Monologue Tax (DSC) 100
+8 Mountain (ECL) 272
+1 Olorin's Searing Light (LTC) 503
+1 Path to Exile (ECC) 65
+1 Pearl Medallion (MH3) 294
+5 Plains (ECL) 269
+1 Primal Amulet (XLN) 243
+1 Prismatic Vista (MH1) 244
+1 Pyromancer's Goggles (FDN) 677
+1 Radiant Summit (EOC) 23
+1 Restoration Angel (INR) 38
+1 Restoration Seminar (SOS) 30
+1 Rite of the Dragoncaller (FDN) 92
+1 Rite of the Raging Storm (MKC) 159
+1 Ruby Medallion (MH3) 295
+1 Sacred Foundry (EOE) 256
+1 Sacred Peaks (MKC) 285
+1 Scalding Tarn (MH2) 254
+1 Searing Wind (8ED) 218
+1 Seething Song (C21) 179
+1 Sensei's Divining Top (2X2) 314
+1 Smoldering Egg (MID) 159
+1 Sol Ring (SLD) 1494
+1 Sundown Pass (INR) 286
+1 Swords to Plowshares (EOC) 45
+1 Temple of Triumph (EOC) 188
+1 Terramorphic Expanse (SOS) 265
+1 The Fire Crystal (FIN) 135
+1 Turbulent Steppe (SOC) 58
+1 Twinflame Tyrant (FDN) 97
+1 Vandalblast (OTC) 183
+1 Vedalken Orrery (2X2) 317
+1 Velomachus Lorehold (TDC) 309
+1 Wandering Archaic (STX) 6
+1 Witch Enchanter (MH3) 239
+1 Wooded Foothills (MH3) 236 
